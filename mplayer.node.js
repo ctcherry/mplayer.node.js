@@ -2,7 +2,7 @@ var spawn = require('child_process').spawn;
 var net = require('net');
 var fs = require('fs');
 
-var socket_file = "/tmp/mplayerserver.sock";
+var socket_file = "/tmp/mplayer.node.sock";
 
 process.on('exit', function() {
   fs.unlinkSync(socket_file);
