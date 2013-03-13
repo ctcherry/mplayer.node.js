@@ -1,3 +1,5 @@
+**See [mplayerweb](https://github.com/ctcherry/mplayerweb) for a more mature version of this project**
+
 mplayer.node.js
 ===============
 
